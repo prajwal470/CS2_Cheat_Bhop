@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\prajw\source\repos\cexy-driver\um-cheat\src\main.cpp(2,11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\prajw\source\repos\cexy-driver\um-cheat\src\main.cpp(3,11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\prajw\source\repos\cexy-driver\um-cheat\src\main.cpp(101,24): warning C4312: 'reinterpret_cast': conversion from 'const DWORD' to 'HANDLE' of greater size
+  um-cheat.vcxproj -> C:\Users\prajw\source\repos\cexy-driver\build\um-cheat.exe

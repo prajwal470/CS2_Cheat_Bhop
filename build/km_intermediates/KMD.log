@@ -1,0 +1,19 @@
+﻿  Building 'KMD' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping C:\Users\prajw\source\repos\cexy-driver\build\km_intermediates\KMD.inf
+  Stamping [Version] section with DriverVer=01/19/2025,20.45.10.635
+  KMD.vcxproj -> C:\Users\prajw\source\repos\cexy-driver\build\KMD.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\prajw\source\repos\cexy-driver\build\KMD\kmd.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\prajw\source\repos\cexy-driver\build\KMD\kmd.cat
+  
